@@ -1,0 +1,11 @@
+C:\CursoPOO\PDFResumenAI.API\PDFResumenAI.API\bin\Release\net8.0\publish\PDFResumenAI.API.exe
+C:\CursoPOO\PDFResumenAI.API\PDFResumenAI.API\bin\Release\net8.0\publish\appsettings.Development.json
+C:\CursoPOO\PDFResumenAI.API\PDFResumenAI.API\bin\Release\net8.0\publish\appsettings.json
+C:\CursoPOO\PDFResumenAI.API\PDFResumenAI.API\bin\Release\net8.0\publish\PDFResumenAI.API.dll
+C:\CursoPOO\PDFResumenAI.API\PDFResumenAI.API\bin\Release\net8.0\publish\PDFResumenAI.API.deps.json
+C:\CursoPOO\PDFResumenAI.API\PDFResumenAI.API\bin\Release\net8.0\publish\PDFResumenAI.API.runtimeconfig.json
+C:\CursoPOO\PDFResumenAI.API\PDFResumenAI.API\bin\Release\net8.0\publish\PDFResumenAI.API.pdb
+C:\CursoPOO\PDFResumenAI.API\PDFResumenAI.API\bin\Release\net8.0\publish\Microsoft.OpenApi.dll
+C:\CursoPOO\PDFResumenAI.API\PDFResumenAI.API\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.Swagger.dll
+C:\CursoPOO\PDFResumenAI.API\PDFResumenAI.API\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\CursoPOO\PDFResumenAI.API\PDFResumenAI.API\bin\Release\net8.0\publish\Swashbuckle.AspNetCore.SwaggerUI.dll
