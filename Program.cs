@@ -6,10 +6,11 @@ builder.Services.AddSwaggerGen();
 
 var app = builder.Build();
 
-// 🔥 Esto es clave para Render
+// Puerto para Render
 var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
 app.Urls.Add($"http://*:{port}");
 
+// 🔥 Swagger SIEMPRE activo
 app.UseSwagger();
 app.UseSwaggerUI();
 
